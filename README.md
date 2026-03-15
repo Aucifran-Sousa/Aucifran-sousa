@@ -1,50 +1,60 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Aucifran%20Sousa&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aucifran%20Sousa&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-# Aucifran-Sousa
+# 👨‍💻 Aucifran Sousa
 
-Developer • Linux • Systems
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Linux+User;Developer+in+Progress;Systems+and+Security+Enthusiast;Building+Projects+and+Tools"/>
+🐧 Usuário de Linux  
+💻 Estudante de Programação  
+⚙️ Interesses: Sistemas, Segurança e Tecnologia  
 
 ---
 
-## tecnologias
+## 🚀 Sobre mim
+
+Olá, eu sou **Aucifran Noel de Sousa**.
+
+Atualmente estudo programação, sistemas e ferramentas no ambiente **Linux**.  
+Meu objetivo é desenvolver projetos, aprender tecnologias novas e criar soluções úteis.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,python,c,html,css,vscode"/>
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 ---
 
-## GitHub estrelas
+## 📊 Estatísticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Aucifran-Sousa&show_icons=true&theme=dark)
 
----
-
-## Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Aucifran-Sousa&layout=compact&theme=dark)
 
 ---
 
-## projetos
+## 📂 Projetos em desenvolvimento
 
-🔹 Secure Chat  
-🔹 Offline Assistant  
-🔹 Linux Tools  
-🔹 Experimental Systems  
-
----
-
-## About
-
-Focused on learning programming, systems and Linux environments.  
-Building tools, experimenting with ideas and developing technical knowledge.
+🔹 Chat seguro experimental  
+🔹 Assistente offline  
+🔹 Ferramentas para Linux  
+🔹 Experimentos de programação  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer"/>
+## 🎯 Objetivos
+
+✔ Aprender mais sobre programação  
+✔ Criar projetos open source  
+✔ Desenvolver ferramentas úteis  
+✔ Evoluir no mundo da tecnologia  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
