@@ -23,8 +23,7 @@ Meu objetivo é desenvolver projetos, aprender tecnologias novas e criar soluç�
 <img src="https://skillicons.dev/icons?i=linux" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=javascript" />
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
 </p>
@@ -40,11 +39,7 @@ Meu objetivo é desenvolver projetos, aprender tecnologias novas e criar soluç�
 ---
 
 ## 📂 Projetos em desenvolvimento
-
-🔹 Chat seguro experimental  
-🔹 Assistente offline  
-🔹 Ferramentas para Linux  
-🔹 Experimentos de programação  
+ 
 
 ---
 
